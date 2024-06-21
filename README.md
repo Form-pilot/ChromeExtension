@@ -1,4 +1,4 @@
-# ChromeExtension
-This is our chrome extension
-
-Test form: https://docs.google.com/forms/d/1BZ9PYd4dTaz9Ul88IGTxLa-113jnjz21FMh-foY8IR4/edit, https://forms.gle/xvDYcMg3ccS9UKfs5
+# Form Pilot ChromeExtension
+We are going to buid a chrome extension that fills people's forms for them
+In the first phase we want to focus on community of people who fill a lot of forms each day.
+I found that job seekers are perfect users as they fill a lot of repetitive forms each day.
